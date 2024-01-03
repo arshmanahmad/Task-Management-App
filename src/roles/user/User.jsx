@@ -7,7 +7,7 @@ import Table from '../../components/Table/Table';
 const User = () => {
     return (
         <>
-            <div>
+            <div className='user-panel-main-container'>
                 <SearchBar />
                 <div className="components-container">
                     <div className="sidebar-container">

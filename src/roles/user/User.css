@@ -6,3 +6,7 @@
 .sidebar-container {
     width: 23rem;
 }
+
+.user-panel-main-container {
+    overflow: hidden;
+}
