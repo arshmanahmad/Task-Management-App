@@ -1,0 +1,8 @@
+.components-container {
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar-container {
+    width: 23rem;
+}

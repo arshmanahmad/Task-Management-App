@@ -1,0 +1,25 @@
+.submit-button {
+    height: 3rem;
+    width: 7rem;
+    background-color: rgb(97, 77, 51);
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.32rem;
+    color: white;
+    cursor: pointer;
+}
+
+.submit-button :hover {
+    transition: 1s;
+    background-color: rgb(46, 41, 34);
+
+}
+
+.btn-container {
+    display: flex;
+    justify-content: end;
+    height: 4rem;
+    align-items: center;
+}
