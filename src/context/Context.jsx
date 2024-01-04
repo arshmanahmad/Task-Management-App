@@ -16,7 +16,11 @@ const Provider = ({ children }) => {
         { id, name: "Hadi", post: "Senior developer", date: "thursday", task: "Debugging", status: "active" },
         { id, name: "Hanan", post: "Senior developer", date: "thursday", task: "Debugging", status: "active" },
         { id, name: "Zaid", post: "Senior developer", date: "thursday", task: "Debugging", status: "active" },
-        { id, name: "Ahmad", post: "Senior developer", date: "thursday", task: "Debugging", status: "active" },
+        { id, name: "Ali", post: "Senior developer", date: "thursday", task: "Debugging", status: "active" },
+        { id, name: "Bilal", post: "Senior developer", date: "thursday", task: "Debugging", status: "active" },
+        { id, name: "Farooq", post: "Senior developer", date: "thursday", task: "Debugging", status: "active" },
+        { id, name: "Hasham", post: "Senior developer", date: "thursday", task: "Debugging", status: "active" },
+        { id, name: "Fardeel", post: "Senior developer", date: "thursday", task: "Debugging", status: "active" },
     ]);
     const [links, setLinks] = useState([
         { link: "Admin panel" },
